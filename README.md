@@ -1,6 +1,5 @@
-Demo :
 
-<img width="400" height="889" alt="Face Landmarker copy" src="https://github.com/user-attachments/assets/a679064c-dce0-471f-ad62-01fd6bea0be3" />
+https://github.com/user-attachments/assets/d381d641-6cb7-45c9-a834-d26131e7f9a5
 
 
 # Real-Time Face Attention Detection on Android Using MediaPipe and CameraX
